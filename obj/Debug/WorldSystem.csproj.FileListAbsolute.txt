@@ -1,0 +1,6 @@
+C:\Users\Igor\source\repos\WorldSystem\bin\Debug\WorldSystem.exe.config
+C:\Users\Igor\source\repos\WorldSystem\bin\Debug\WorldSystem.exe
+C:\Users\Igor\source\repos\WorldSystem\bin\Debug\WorldSystem.pdb
+C:\Users\Igor\source\repos\WorldSystem\obj\Debug\WorldSystem.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\WorldSystem\obj\Debug\WorldSystem.exe
+C:\Users\Igor\source\repos\WorldSystem\obj\Debug\WorldSystem.pdb
